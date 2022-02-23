@@ -1,0 +1,16 @@
+body{
+    background-color: #b91450;
+}
+span, button{
+    color: #b91450 !important;
+}
+input, select{
+    border: 1px solid #b91450;
+}
+.col-3, .h-custom{
+    height: 6rem;
+}
+.nest{
+    border-bottom: 1px solid black;
+    border-top: 1px solid black;
+}
